@@ -9,7 +9,7 @@ export const useAppDispatch: () => AppDispatch = useDispatch
 export const useAppSelector: TypedUseSelectorHook<RootState> = useSelector
 export default axios.create({
    // baseURL: 'http://127.0.0.1:8000'
-   baseURL: 'https://fintechapi-98da.onrender.com'
+   baseURL: 'https://fintechapi-98da.onrender.com:80'
     
 });
 
