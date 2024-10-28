@@ -1,19 +1,4 @@
-# [MoneyWay - Client]
 
-* Built with **TypeScript**, **React**, **Tailwind CSS 3** framework & **Next.js**
-* **React Redux** state library &mdash; [Info](https://react-redux.js.org/)
-* **Dark mode**
-* **Styled** scrollbars
-* SPA with **Next.js**
-* **Production CSS** is only **&thickapprox;38kb**
-* Reusable components
-
-
-## Responsive layout
-
-### Mobile & tablet
-
-Mobile layout with hidden aside menu and collapsable cards & tables
 
 #### Install
 
